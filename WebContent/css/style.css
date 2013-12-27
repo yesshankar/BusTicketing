@@ -1,0 +1,38 @@
+
+body{
+	background-image:url("../images/bluesky.jpg");
+	}
+#wrapper{
+	width:960px;
+	background:#abcdef;
+	margin:0 auto;
+	padding:5px;
+}
+h1,h2,h3,h4,p {
+	margin:5px;
+	padding:0px;
+}
+#heading{
+	padding:10 auto;
+}
+#banner{
+	height:30px;
+	width:940px;
+	padding:5px;
+	margin:5px;
+	background:#3366ff;
+}
+
+#search{
+	width:500px;
+	float:left;
+	height:500px;
+
+}
+#login{
+	background:#addnf5;
+	float:right;
+	width:360px;
+}
+#login 
+
